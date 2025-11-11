@@ -7,9 +7,11 @@
 
 ## Installation
 1. **Clone the repository**:
+   
    git clone https://github.com/kbouhafra/powerplant-coding-challenge.git
+   
    cd powerplant-coding-challenge
-2. **Create and activate a virtual environment**:
+3. **Create and activate a virtual environment**:
 
     In the terminal, run:
 
@@ -27,7 +29,7 @@
       source venv/bin/activate
      
 
-3. **Install dependencies**:
+4. **Install dependencies**:
 
     pip install -r requirements.txt
   
@@ -45,5 +47,6 @@ uvicorn main:app --host 0.0.0.0 --port 8888
 ###  Postman
 
 http://127.0.0.1:8888/productionplan
+
 
 
