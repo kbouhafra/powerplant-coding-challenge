@@ -3,7 +3,7 @@
 ## Requirements
 
 - Python 3.8 or higher
-- Visuel Studio Code
+- Visual Studio Code
 
 ## Installation
 1. **Clone the repository**:
@@ -47,6 +47,7 @@ uvicorn main:app --host 0.0.0.0 --port 8888
 ###  Postman
 
 http://127.0.0.1:8888/productionplan
+
 
 
 
